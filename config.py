@@ -21,3 +21,6 @@ class DevelopmentConfig(Config):
     
 class TestingConfig(Config):
     TESTING = True
+    
+    
+print (os.environ['DATABASE_URL'])
