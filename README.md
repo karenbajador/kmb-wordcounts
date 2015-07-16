@@ -1,6 +1,6 @@
 **Real Python** Tutorial
 
-[Markdown][1] 
+[https://realpython.com/blog/python/flask-by-example-part-1-project-setup/][1] 
 
 
-[https://realpython.com/blog/python/flask-by-example-part-1-project-setup/]: https://realpython.com/blog/python/flask-by-example-part-1-project-setup/
+[1]: https://realpython.com/blog/python/flask-by-example-part-1-project-setup/
