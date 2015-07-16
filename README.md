@@ -8,6 +8,10 @@ Built with *Python 3.4.3, Flask, Heroku, Environment variables, Sqlalchemy, Flas
 
 This is a Flask app that accepts a URL and calculates the word-frequency pairs based on extracted text from the given URL. It limits the results to the top 10 pairs ordered by the highest frequency to lowest.
 
+**Deployed project on:**
+* *Staging:* [https://kmb-wordcounts-stage.herokuapp.com/][3]
+* *Production:* [https://kmb-wordcounts-prod.herokuapp.com/][4]
+
 **Tutorial Coverage:**
 
 1. Part One: Setup a local development environment and then deploy both a staging environment and a production environment on Heroku. (current)
@@ -21,3 +25,5 @@ This is a Flask app that accepts a URL and calculates the word-frequency pairs b
 
 [1]: http://realpython.com
 [2]: https://realpython.com/blog/python/flask-by-example-part-1-project-setup/
+[3]: https://kmb-wordcounts-stage.herokuapp.com/
+[4]: https://kmb-wordcounts-prod.herokuapp.com/
