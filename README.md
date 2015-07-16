@@ -1,9 +1,10 @@
 #kmb-wordcount
 
 Built this project by following tutorial from [realpython.com][1].
+
 *Link:* [https://realpython.com/blog/python/flask-by-example-part-1-project-setup/][2] 
 
-Built with _Python 3.4.3, Flask, Heroku, Environment variables, Sqlalchemy, Flask-migrate, Redis & Postgresql_.
+Built with *Python _3.4.3_, _Flask_, _Heroku_, _Environment variables_, _Sqlalchemy_, _Flask-migrate_, _Redis_ & _Postgresql_*.
 
 This is a Flask app that accepts a URL and calculates the word-frequency pairs based on extracted text from the given URL. It limits the results to the top 10 pairs ordered by the highest frequency to lowest.
 
