@@ -3,7 +3,7 @@
 Built this project by following tutorial from [realpython.com][1].
 *Link:* [https://realpython.com/blog/python/flask-by-example-part-1-project-setup/][2] 
 
-Built with *Python 3.4.3, Flask, Heroku, Environment variables, Sqlalchemy, Flask-migrate, Redis, Postgresql*.
+Built with _Python 3.4.3, Flask, Heroku, Environment variables, Sqlalchemy, Flask-migrate, Redis & Postgresql_.
 
 This is a Flask app that accepts a URL and calculates the word-frequency pairs based on extracted text from the given URL. It limits the results to the top 10 pairs ordered by the highest frequency to lowest.
 
