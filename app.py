@@ -77,6 +77,7 @@ def count_and_save_words(url):
             result_all=raw_word_count,
             result_no_stop_words=no_stop_words_count
         )
+        
         db.session.add(result)
         db.session.commit()
         return result.id
